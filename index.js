@@ -3,7 +3,7 @@ const notification = document.querySelector('.shell')
 const notifyIcon = document.getElementById('note')
 const usersContainer = document.querySelector("#users-Container");
 let notificatonNum = 2
-let users = ["Kevin Biwott", "James Mutemi"];
+let users = ["Kevin Biwott", "sct221-0115/2020"];
 
 setTimeout( () => {
   notification.classList.add('translated')
